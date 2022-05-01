@@ -9,5 +9,5 @@ The use, one should have the Arduino environment and any compatible board kit wi
 ![blink_setup](https://user-images.githubusercontent.com/103550379/165169554-005050ec-50d4-46c3-9794-c551cf6ecbe5.JPG)
 
 # Video Demo
-Speed Change Button Pressed: https://www.youtube.com/watch?v=Q8deq4yxHl4
-Reverse Blinking Order Button Pressed: https://youtube.com/shorts/DGIfeyPHB2k?feature=share
+1 Hz, 3 Hz, 5 Hz LED Blinker: https://youtube.com/shorts/xnHndLh7MOo?feature=share
+1 Hz, 4 Hz, 5 Hz LED Blinker: https://youtube.com/shorts/uuUID0EkpHU?feature=share
